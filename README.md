@@ -27,7 +27,7 @@ Playground to evaluate GitHub Markdown as used for this README.
 <div align="center">
   <table>
     <tr>
-      <td width="400px" height="400px">
+      <td width="300px" height="300px">
         <div align="center">
           <a href="https://github.com/tiacsys">
             <img src="https://tiacsys.github.io/bridle/bridle/_static/images/tiac.png"/>
@@ -36,7 +36,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           <p>Three is a Company.</p>
         </div>
       </td>
-      <td width="400px" height="400px">
+      <td width="300px" height="300px">
         <div align="center">
           <a href="https://github.com/tiacsys/bridle">
             <img src="https://tiacsys.github.io/bridle/bridle/_static/images/bridle.png"/>
@@ -45,7 +45,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           </a>
         </div>
       </td>
-      <td width="400px" height="400px">
+      <td width="300px" height="300px">
         <div align="center">
           <a href="https://github.com/zephyrproject-rtos/zephyr">
             <img src="https://docs.zephyrproject.org/latest/_static/images/kite.png"/>
@@ -61,7 +61,7 @@ Playground to evaluate GitHub Markdown as used for this README.
 <div align="center">
   <table>
     <tr>
-      <td width="300px" height="300px">
+      <td width="225px" height="225px">
         <div align="center">
           <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/getting_started.html">
@@ -70,7 +70,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           </a>
         </div>
       </td>
-      <td width="300px" height="300px">
+      <td width="225px" height="225px">
         <div align="center">
           <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/boards/index.html">
@@ -79,7 +79,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           </a>
         </div>
       </td>
-      <td width="300px" height="300px">
+      <td width="225px" height="225px">
         <div align="center">
           <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/samples.html">
@@ -88,7 +88,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           </a>
         </div>
       </td>
-      <td width="300px" height="300px">
+      <td width="225px" height="225px">
         <div align="center">
           <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/user_guides.html">
