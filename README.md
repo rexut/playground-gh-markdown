@@ -27,7 +27,7 @@ Playground to evaluate GitHub Markdown as used for this README.
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="400px" height="400px">
         <div align="center">
           <a href="https://github.com/tiacsys">
             <img src="https://tiacsys.github.io/bridle/bridle/_static/images/tiac.png"/>
@@ -36,7 +36,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           <p>Three is a Company.</p>
         </div>
       </td>
-      <td>
+      <td width="400px" height="400px">
         <div align="center">
           <a href="https://github.com/tiacsys/bridle">
             <img src="https://tiacsys.github.io/bridle/bridle/_static/images/bridle.png"/>
@@ -45,7 +45,7 @@ Playground to evaluate GitHub Markdown as used for this README.
           </a>
         </div>
       </td>
-      <td>
+      <td width="400px" height="400px">
         <div align="center">
           <a href="https://github.com/zephyrproject-rtos/zephyr">
             <img src="https://docs.zephyrproject.org/latest/_static/images/kite.png"/>
@@ -61,34 +61,38 @@ Playground to evaluate GitHub Markdown as used for this README.
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="300px" height="300px">
         <div align="center">
+          <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/getting_started.html">
-            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/map-signs.svg" width="50"/>
+            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/map-signs.svg" width="100"/>
             <h3>Getting Started</h3>
           </a>
         </div>
       </td>
-      <td>
+      <td width="300px" height="300px">
         <div align="center">
+          <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/boards/index.html">
-            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/object-group.svg" width="50"/>
+            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/object-group.svg" width="100"/>
             <h3>Supported Boards</h3>
           </a>
         </div>
       </td>
-      <td>
+      <td width="300px" height="300px">
         <div align="center">
+          <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/samples.html">
-            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/cogs.svg" width="50"/>
+            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/cogs.svg" width="100"/>
             <h3>Samples & Demos</h3>
           </a>
         </div>
       </td>
-      <td>
+      <td width="300px" height="300px">
         <div align="center">
+          <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/user_guides.html">
-            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/puzzle-piece.svg" width="50"/>
+            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/puzzle-piece.svg" width="100"/>
             <h3>User Guides</h3>
           </a>
         </div>
@@ -96,8 +100,9 @@ Playground to evaluate GitHub Markdown as used for this README.
     </tr><tr>
       <td colspan="4">
         <div align="center">
+          <br/>
           <a href="https://tiacsys.github.io/bridle/bridle/dm_adding_code.html">
-            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/github.svg" width="50"/>
+            <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/github.svg" width="100"/>
             <h3>Contribution</h3>
           </a>
           <p>As an open-source project, we welcome and encourage the community to submit patches directly to Bridle.</p>
