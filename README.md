@@ -2,6 +2,28 @@
 
 Playground to evaluate GitHub Markdown as used for this README.
 
+## Font-Awesome
+
+- ref: https://github.com/FortAwesome/Font-Awesome
+
+### SVG Symbols
+
+<!-- Define the symbols, these are invisible on the page -->
+<i data-fa-symbol="delete" class="fas fa-trash fa-fw"></i>
+<i data-fa-symbol="edit" class="fas fa-pencil fa-fw"></i>
+<i data-fa-symbol="favorite" class="fas fa-star fa-fw"></i>
+
+<!-- Use the defined symbols -->
+<svg><use xlink:href="#edit"></use></svg>
+<svg><use xlink:href="#delete"></use></svg>
+<svg><use xlink:href="#favorite"></use></svg>
+
+### SVG Images
+
+<img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/map-signs.svg" width="50"> <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/object-group.svg" width="50"> <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/cogs.svg" width="50"> <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/solid/puzzle-piece.svg" width="50"> <img src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/github.svg" width="50">
+
+## quick-link-matrix
+
 <div align="center">
   <table>
     <tr>
